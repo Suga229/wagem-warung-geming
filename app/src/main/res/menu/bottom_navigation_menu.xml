@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_foreground"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_transaksi"
+        android:icon="@drawable/transaksi_foreground"
+        android:title="Transaksi" />
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/chat_foreground"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile_foreground"
+        android:title="Profile" />
+</menu>
